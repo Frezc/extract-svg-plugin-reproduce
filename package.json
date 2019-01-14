@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {
+    "extract-svg-sprite-webpack-plugin": "^0.3.7",
+    "webpack": "^4.28.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  }
+}
